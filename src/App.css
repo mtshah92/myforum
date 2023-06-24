@@ -1,4 +1,5 @@
-/* .App {
+/* 
+.App {
   display: grid;
   text-align: center;
 }
@@ -29,6 +30,10 @@
     "sidebar post  filter";
 } */
 
+.App {
+  display: grid;
+  text-align: center;
+}
 .sidebar {
   padding: 0.5rem;
   border-right: 1px solid black;
